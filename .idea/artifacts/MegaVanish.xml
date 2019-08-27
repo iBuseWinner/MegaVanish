@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MegaVanish">
+    <output-path>$PROJECT_DIR$/out/artifacts/MegaVanish</output-path>
+    <root id="archive" name="MegaVanish.jar">
+      <element id="module-output" name="MegaVanish" />
+    </root>
+  </artifact>
+</component>

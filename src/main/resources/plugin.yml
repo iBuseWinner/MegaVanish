@@ -1,0 +1,10 @@
+name: MegaVanish
+version: ${project.version}
+main: ru.ibusewinner.spigot.free.megavanish.MegaVanish
+api-version: 1.13
+authors: [iBuseWinner]
+description: SuperDuperUltraMegaVanish plugin :OOOO
+
+commands:
+  vanish:
+    aliases: [supervanish,sv,v]
